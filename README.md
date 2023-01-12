@@ -4,7 +4,8 @@
 The Business Model Canvas (BMC) is a strategic planning and management tool used to illustrate, summarize, and develop new business models and documenting existing ones. It reflects systematically on your business model, so you can focus on it segment by segment.
 Below is a BMC I created for a solution to a Business Information System problem during my journey to become a certified Business Analyst via the GT trainee program at @dataleum.
 PS: The names City and ACAB are fictional.
-PROBLEM STATEMENT
+
+## **PROBLEM STATEMENT**
 The City library, located in the suburbs presently use the conventional library system which is the manual process of library operation where registered members need to visit the library physically, check the card catalog for books and get it from the shelf. The manual operation is cumbersome and less efficient because there are cases where members visit the library and the books are not available, some books are borrowed and are not returned as at when due thus causing books scarcity/unavailability.
 
 
@@ -29,7 +30,7 @@ The system will be able to send notification to members on due dates for borrowe
 The job of the librarian is made easy as the entire process is automated.
 The system will have a robust and up to date database.
 
-# ** BUSINESS MODEL CANVAS (BMC)**
+# **BUSINESS MODEL CANVAS (BMC)**
 
 The Business Model Canvas (BMC) is a strategic planning and management tool used to illustrate, summarize, and develop new business models and documenting existing ones. It reflects systematically on your business model, so you can focus on it segment by segment.
 Below is a BMC I created for a solution to a Business Information System problem during my journey to become a certified Business Analyst via the GT trainee program at @dataleum.
